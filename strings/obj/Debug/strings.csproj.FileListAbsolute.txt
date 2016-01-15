@@ -1,0 +1,6 @@
+D:\project_c\strings\bin\Debug\strings.exe.config
+D:\project_c\strings\bin\Debug\strings.exe
+D:\project_c\strings\bin\Debug\strings.pdb
+D:\project_c\strings\obj\Debug\strings.csprojResolveAssemblyReference.cache
+D:\project_c\strings\obj\Debug\strings.exe
+D:\project_c\strings\obj\Debug\strings.pdb
